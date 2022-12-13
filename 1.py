@@ -78,8 +78,13 @@
 #     print('Player loses!')
 
 
-def myfunc():
-    return "hi"
+# def myfunc():
+#     return "hi"
 
 
-print(myfunc())
+# print(myfunc())
+toatl = 0
+for i in range(6):
+    toatl += i
+
+print(toatl)
